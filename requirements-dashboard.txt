@@ -1,4 +1,0 @@
-streamlit>=1.50,<2
-numpy>=1.25,<3
-pandas>=2.1,<4
-pyarrow>=12,<27
