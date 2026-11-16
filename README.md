@@ -178,6 +178,12 @@ python scripts/pyspark_part2_binary_classification.py
 python scripts/pyspark_part3_multiclass_classification.py
 ```
 
+#### 4. Launch the Interactive Streamlit Dashboard
+To run the web UI for live flow scoring, dataset exploration, and model analysis:
+```bash
+streamlit run dashboard.py
+```
+
 *(Optional) To re-generate charts from Hive query results:*
 ```bash
 python scripts/visualize_hive.py
